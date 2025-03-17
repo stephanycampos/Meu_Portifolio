@@ -9,7 +9,7 @@ a {
 }
 
 .header {
-  background: #a5c;
+  background: #191970;
   padding-inline: 16px;
 }
 
@@ -41,7 +41,7 @@ a {
 
 .hero {
   height: calc(100vh - 70px);
-  background: center / cover no-repeat url("./bg.jpg");
+  background: center / cover no-repeat url("./Background.png.JPG");
 }
 
 .hamburger {
